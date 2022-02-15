@@ -1,0 +1,18 @@
+body {font-family: 'Oxygen', sans-serif;}
+h1, h2, h3 {text-align: center;}
+h1 {margin-top: 5px;}
+h2 {font-weight: 900;}
+h3 {font-size: 22px; opacity:.7;}
+.searchCity {text-align: center; }
+.currentEmoji {text-align: center; font-size: 35px;}
+.row {text-align: center; }
+.footer {text-align: center; margin-top: 50px; font-family:"monospace"; color: #6ac1b8;}
+.box {background: linear-gradient(180deg, #e1f6f4 0%,  #bfe9db 100%); padding: 50px ;  margin: 50px auto 0; border-radius: 5px; max-width: 650px; }
+.temps {font-size: 18px; }
+.emojis {font-size: 25px;}
+.searchButton, #currentButton {border-radius: 15px; border: none; background-color: #6ac1b8; padding: 5px 20px; color: white; transition: all 200ms ease-in-out;}
+.searchButton:hover, #currentButton:hover {opacity:.5;}
+.searchBar {border-radius: 15px; border: 2px solid #6ac1b8; padding: 3px 20px;}
+.cloud, .snow, .cloud-sun {color: white;}
+#currentButton {margin-top:25px; }
+#dayTime {margin-top: 40px;}
